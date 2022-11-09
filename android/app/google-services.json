@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673918876374",
+    "project_id": "cmsc23-todo-app-llocampo2",
+    "storage_bucket": "cmsc23-todo-app-llocampo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673918876374:android:5bcd305dfbfa5bb0726777",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673918876374-9pgu1jom8tb5s2qq846j6m03h9rqmvmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvun8wdDdCi1ltWg4L7Yh4VqO1ni2e1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673918876374-9pgu1jom8tb5s2qq846j6m03h9rqmvmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
